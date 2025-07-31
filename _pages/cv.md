@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Genomics and Bioinformatics The Chinese University of Hong Kong, Aug 2020 – Aug 2021
-* B.S. in Bioinformatics (GPA: 86.52/100 ;Ranking 6/46) Harbin Medical University, Sep 2015 – Jun 2020
+* B.S. in Bioinformatics Harbin Medical University, Sep 2015 – Jun 2020
 
 Work experience
 ======
@@ -53,12 +53,3 @@ Publications
 2. Design methods and applications of cancer species-specific core probe sets for MRD detection.            2023.12 CN patent no. CN117144003A
 3. Design method and application of personalized probe set for MRD detection.                               2023.12 CN patent no. CN117144002A
   
-#Teaching
-#======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-#Service and leadership
-#======
-#* Currently signed in to 43 different slack teams
