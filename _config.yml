@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "selfphoto1.jpg"
   name             : "TIAN Zihan"
   pronouns         : # example: "she/her"  
   bio              : "life work balance"
