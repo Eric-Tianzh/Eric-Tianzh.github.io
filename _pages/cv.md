@@ -44,10 +44,12 @@ Publications
 3. Gong Chen, Yongming Zeng, Chunzai Feng, Jingge Yang, Longqing Cheng, Hui Wang, Ligang Xia, Mei Jiang, Xiaozhong Wang, Xiaoling Zeng, Zihan Tian, Ning Fu, Xue Zhang, Wuqiang Cao, Pansong Li, and Wei Gao. **Tumor-informed patient-specific MRD monitoring analysis in colorectal cancer.** Journal of Clinical Oncology 2023 41: 4_suppl, 48-48. (IF: 45.3)
 4. Qun Dong, Feng Li, Yanjun Xu, Jing Xiao, Yingqi Xu, Desi Shang, Chunlong Zhang, Haixiu Yang, Zihan Tian, Kai Mi, Xia Li, Yunpeng Zhang, **RNAactDrug: a comprehensive database of RNAs associated with drug sensitivity from multi-omics data.** Briefings in Bioinformatics,bbz142,2019. (IF: 13.9)
 
+<! --
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+-->
+
 ## PATENTS
 1. Detection methods and applications of tumor-specific mutation status.                                    2023.08 CN patent no. CN116631508A
 2. Design methods and applications of cancer species-specific core probe sets for MRD detection.            2023.12 CN patent no. CN117144003A
