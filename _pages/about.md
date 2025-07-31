@@ -1,16 +1,17 @@
 ---
 permalink: /
-title: "About me"
+#title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-My name is TIAN Zihan 
-HEILONGJIANG province,China. 
+## Welcome to my world!
 
-Stay curious, upbeat and resilient!!!
+My name is TIAN Zihan from HEILONGJIANG province,China. 
+
+## Stay curious, upbeat and resilient!!!
 
 
 
